@@ -1,8 +1,10 @@
-package com.flexon.javastringpractice;
+package test.java;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import com.flexon.javastringpractice.Vowels;
 
 public class VowelsTest {
 	
